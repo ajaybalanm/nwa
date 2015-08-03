@@ -6,11 +6,11 @@
 	Author: Lantern Themes
 	Author URI: http://themeforest.net/user/lanternthemes
 	Tags:
-	
+
 	---------------------------
 	CORE TEMPLATE STYLES
 	---------------------------
-	
+
 	TABLE OF CONTENTS
 	---------------------------
 	 01. Global Styles
@@ -26,7 +26,7 @@
 	 11. RSVP Styles
 	 12. Contact Us Styles
 	 13. Footer Styles
-	 14. Media Query Syles 
+	 14. Media Query Syles
 */
 
 /* ====================================================== */
@@ -734,6 +734,7 @@ p.big-text {
 }
 .family-tab-cont .tab-btns li a img {
 	width:100%;
+	height: 100%;
 	border-radius:50%;
 	-webkit-border-radius:50%;
 	-moz-border-radius:50%;
